@@ -1,0 +1,3 @@
+# my local docker container startup script
+# with volumes and ports
+start.sh
