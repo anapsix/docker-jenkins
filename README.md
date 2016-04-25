@@ -6,7 +6,7 @@ Run as:
 ```bash
 docker run -d \
            -p 8080:8080  \
-           -p 38869:38869 \
+           -p 22         \
            -v ~/code:/srv/code \
            -v ~/jenkins_home:/opt/jenkins \
            anapsix/jenkins
